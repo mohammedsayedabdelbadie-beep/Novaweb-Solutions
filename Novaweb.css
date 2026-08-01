@@ -312,7 +312,9 @@
     }
 
     .logo{
-       font-size: 1.5px;
+       font-size: 28px;
+      
+
      
     }
 
@@ -326,6 +328,7 @@
         padding:7px 12px;
         font-size:10px;
         text-align: center;
+
     }
 
 
@@ -340,7 +343,7 @@
         font-size:2.2rem;
     }
     .hero-content p{
-        font-size: 1.1rem;
+        font-size: 2.1rem;
         margin: 0 auto;
        
         
@@ -348,7 +351,7 @@
     }
     .services-container{
       
-      grid-template-columns: repeat(3,1fr);
+      grid-template-columns: repeat(1,1fr);
       width: 60%;
     }
     
