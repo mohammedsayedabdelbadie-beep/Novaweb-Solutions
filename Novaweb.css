@@ -184,13 +184,10 @@
                                         }
                                         
                                          .about p{
-                                           gap: 28px;
-                                         align-items: center;
-                                         padding: 48px;
+                                           padding: 48px;
                                           font-weight: 900;
                                           font-size: 1.2rem;
-                                         
-                                           border-radius: 20px;
+                                          border-radius: 20px;
                                            line-height: 2;
                                           color: var(--dark);
                                        }
